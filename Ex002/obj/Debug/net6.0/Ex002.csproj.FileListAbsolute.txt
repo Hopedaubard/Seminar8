@@ -1,0 +1,15 @@
+C:\Repository\Seminar240423\Ex002\bin\Debug\net6.0\Ex002.exe
+C:\Repository\Seminar240423\Ex002\bin\Debug\net6.0\Ex002.deps.json
+C:\Repository\Seminar240423\Ex002\bin\Debug\net6.0\Ex002.runtimeconfig.json
+C:\Repository\Seminar240423\Ex002\bin\Debug\net6.0\Ex002.dll
+C:\Repository\Seminar240423\Ex002\bin\Debug\net6.0\Ex002.pdb
+C:\Repository\Seminar240423\Ex002\obj\Debug\net6.0\Ex002.csproj.AssemblyReference.cache
+C:\Repository\Seminar240423\Ex002\obj\Debug\net6.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Seminar240423\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfoInputs.cache
+C:\Repository\Seminar240423\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfo.cs
+C:\Repository\Seminar240423\Ex002\obj\Debug\net6.0\Ex002.csproj.CoreCompileInputs.cache
+C:\Repository\Seminar240423\Ex002\obj\Debug\net6.0\Ex002.dll
+C:\Repository\Seminar240423\Ex002\obj\Debug\net6.0\refint\Ex002.dll
+C:\Repository\Seminar240423\Ex002\obj\Debug\net6.0\Ex002.pdb
+C:\Repository\Seminar240423\Ex002\obj\Debug\net6.0\Ex002.genruntimeconfig.cache
+C:\Repository\Seminar240423\Ex002\obj\Debug\net6.0\ref\Ex002.dll

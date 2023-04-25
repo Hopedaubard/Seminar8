@@ -1,0 +1,15 @@
+C:\Repository\Seminar240423\Ex008SAM\bin\Debug\net6.0\Ex008SAM.exe
+C:\Repository\Seminar240423\Ex008SAM\bin\Debug\net6.0\Ex008SAM.deps.json
+C:\Repository\Seminar240423\Ex008SAM\bin\Debug\net6.0\Ex008SAM.runtimeconfig.json
+C:\Repository\Seminar240423\Ex008SAM\bin\Debug\net6.0\Ex008SAM.dll
+C:\Repository\Seminar240423\Ex008SAM\bin\Debug\net6.0\Ex008SAM.pdb
+C:\Repository\Seminar240423\Ex008SAM\obj\Debug\net6.0\Ex008SAM.csproj.AssemblyReference.cache
+C:\Repository\Seminar240423\Ex008SAM\obj\Debug\net6.0\Ex008SAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Seminar240423\Ex008SAM\obj\Debug\net6.0\Ex008SAM.AssemblyInfoInputs.cache
+C:\Repository\Seminar240423\Ex008SAM\obj\Debug\net6.0\Ex008SAM.AssemblyInfo.cs
+C:\Repository\Seminar240423\Ex008SAM\obj\Debug\net6.0\Ex008SAM.csproj.CoreCompileInputs.cache
+C:\Repository\Seminar240423\Ex008SAM\obj\Debug\net6.0\Ex008SAM.dll
+C:\Repository\Seminar240423\Ex008SAM\obj\Debug\net6.0\refint\Ex008SAM.dll
+C:\Repository\Seminar240423\Ex008SAM\obj\Debug\net6.0\Ex008SAM.pdb
+C:\Repository\Seminar240423\Ex008SAM\obj\Debug\net6.0\Ex008SAM.genruntimeconfig.cache
+C:\Repository\Seminar240423\Ex008SAM\obj\Debug\net6.0\ref\Ex008SAM.dll

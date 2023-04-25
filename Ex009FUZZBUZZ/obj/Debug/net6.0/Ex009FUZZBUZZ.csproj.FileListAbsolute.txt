@@ -1,0 +1,15 @@
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\bin\Debug\net6.0\Ex009FUZZBUZZ.exe
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\bin\Debug\net6.0\Ex009FUZZBUZZ.deps.json
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\bin\Debug\net6.0\Ex009FUZZBUZZ.runtimeconfig.json
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\bin\Debug\net6.0\Ex009FUZZBUZZ.dll
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\bin\Debug\net6.0\Ex009FUZZBUZZ.pdb
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\obj\Debug\net6.0\Ex009FUZZBUZZ.csproj.AssemblyReference.cache
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\obj\Debug\net6.0\Ex009FUZZBUZZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\obj\Debug\net6.0\Ex009FUZZBUZZ.AssemblyInfoInputs.cache
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\obj\Debug\net6.0\Ex009FUZZBUZZ.AssemblyInfo.cs
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\obj\Debug\net6.0\Ex009FUZZBUZZ.csproj.CoreCompileInputs.cache
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\obj\Debug\net6.0\Ex009FUZZBUZZ.dll
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\obj\Debug\net6.0\refint\Ex009FUZZBUZZ.dll
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\obj\Debug\net6.0\Ex009FUZZBUZZ.pdb
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\obj\Debug\net6.0\Ex009FUZZBUZZ.genruntimeconfig.cache
+C:\Repository\Seminar240423\Ex009FUZZBUZZ\obj\Debug\net6.0\ref\Ex009FUZZBUZZ.dll

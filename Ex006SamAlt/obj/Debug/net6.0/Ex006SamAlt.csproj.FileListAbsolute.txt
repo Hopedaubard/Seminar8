@@ -1,0 +1,15 @@
+C:\Repository\Seminar240423\Ex006SamAlt\bin\Debug\net6.0\Ex006SamAlt.exe
+C:\Repository\Seminar240423\Ex006SamAlt\bin\Debug\net6.0\Ex006SamAlt.deps.json
+C:\Repository\Seminar240423\Ex006SamAlt\bin\Debug\net6.0\Ex006SamAlt.runtimeconfig.json
+C:\Repository\Seminar240423\Ex006SamAlt\bin\Debug\net6.0\Ex006SamAlt.dll
+C:\Repository\Seminar240423\Ex006SamAlt\bin\Debug\net6.0\Ex006SamAlt.pdb
+C:\Repository\Seminar240423\Ex006SamAlt\obj\Debug\net6.0\Ex006SamAlt.csproj.AssemblyReference.cache
+C:\Repository\Seminar240423\Ex006SamAlt\obj\Debug\net6.0\Ex006SamAlt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Seminar240423\Ex006SamAlt\obj\Debug\net6.0\Ex006SamAlt.AssemblyInfoInputs.cache
+C:\Repository\Seminar240423\Ex006SamAlt\obj\Debug\net6.0\Ex006SamAlt.AssemblyInfo.cs
+C:\Repository\Seminar240423\Ex006SamAlt\obj\Debug\net6.0\Ex006SamAlt.csproj.CoreCompileInputs.cache
+C:\Repository\Seminar240423\Ex006SamAlt\obj\Debug\net6.0\Ex006SamAlt.dll
+C:\Repository\Seminar240423\Ex006SamAlt\obj\Debug\net6.0\refint\Ex006SamAlt.dll
+C:\Repository\Seminar240423\Ex006SamAlt\obj\Debug\net6.0\Ex006SamAlt.pdb
+C:\Repository\Seminar240423\Ex006SamAlt\obj\Debug\net6.0\Ex006SamAlt.genruntimeconfig.cache
+C:\Repository\Seminar240423\Ex006SamAlt\obj\Debug\net6.0\ref\Ex006SamAlt.dll
